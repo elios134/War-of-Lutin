@@ -24,7 +24,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(/assets/imgs/arena.png);
+   background-image: url(/assets/imgs/arena.png);
     background-position: center;
     background-size: cover;
     padding: 16px;
